@@ -1,0 +1,6 @@
+<!DOCTYPE "html">
+<html>
+<body>
+<h1>Hello World @Model.Message</h1>
+</body>
+</html>
